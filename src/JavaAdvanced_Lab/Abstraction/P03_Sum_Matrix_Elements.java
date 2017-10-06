@@ -19,8 +19,8 @@ public class P03_Sum_Matrix_Elements {
                 sum += matrix[row][col];
             }
         }
-        System.out.println(row1);
-        System.out.println(col1);
+        System.out.println(matrix.length);
+        System.out.println(matrix[0].length);
         System.out.println(sum);
     }
 }
