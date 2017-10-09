@@ -16,13 +16,12 @@ public class P01_Sort_Even_Numbers {
 
         numbers.removeIf(x -> x % 2 != 0);
         for (Integer number : numbers) {
-            System.out.print(number.toString().replaceAll(" ", ","));
+            System.out.print(number.toString().replace(",", ""));
         }
         System.out.println();
         numbers.sort((n, m) -> n.compareTo(m));
-        for (Integer number : numbers) {
-            System.out.print(number + ", ");
-        }
-        System.out.println();
+        for (int i = 0; i < numbers.size(); i++) {
+
+        }// Има за дописване!!!!!
     }
 }
