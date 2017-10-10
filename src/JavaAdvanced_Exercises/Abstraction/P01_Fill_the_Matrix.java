@@ -30,7 +30,7 @@ public class P01_Fill_the_Matrix {
                     }
                 }
             }
-            }
+        }
         for (int[] ints : matrix) {
             for (int anInt : ints) {
                 System.out.print(anInt + " ");
