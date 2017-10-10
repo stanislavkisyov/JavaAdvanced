@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="70f2bf47-3ce4-4792-adcc-33fe0fe163af" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/JavaAdvanced_Exercises/Abstraction/P04_2x2_Squares_in_Matrix.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/JavaAdvanced_Exercises/Abstraction/P05_Maximal_Sum.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/JavaAdvanced_Exercises/Abstraction/P04_2x2_Squares_in_Matrix.java" afterPath="$PROJECT_DIR$/src/JavaAdvanced_Exercises/Abstraction/P04_2x2_Squares_in_Matrix.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,21 +18,31 @@
       <file leaf-file-name="P03_Diagonal_Difference.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/JavaAdvanced_Exercises/Abstraction/P03_Diagonal_Difference.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="208">
-              <caret line="20" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+            <state relative-caret-position="144">
+              <caret line="23" column="21" lean-forward="true" selection-start-line="22" selection-start-column="7" selection-end-line="23" selection-end-column="21" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="P04_2x2_Squares_in_Matrix.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="P04_2x2_Squares_in_Matrix.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/JavaAdvanced_Exercises/Abstraction/P04_2x2_Squares_in_Matrix.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="319">
+              <caret line="28" column="66" lean-forward="true" selection-start-line="28" selection-start-column="66" selection-end-line="28" selection-end-column="66" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="P05_Maximal_Sum.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/JavaAdvanced_Exercises/Abstraction/P05_Maximal_Sum.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="90">
               <caret line="6" column="49" lean-forward="false" selection-start-line="6" selection-start-column="49" selection-end-line="6" selection-end-column="49" />
               <folding>
-                <element signature="e#156#157#0" expanded="true" />
-                <element signature="e#212#213#0" expanded="true" />
+                <element signature="e#146#147#0" expanded="true" />
+                <element signature="e#202#203#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -75,6 +86,7 @@
         <option value="$PROJECT_DIR$/src/JavaAdvanced_Exercises/Abstraction/P01_Fill_the_Matrix.java" />
         <option value="$PROJECT_DIR$/src/JavaAdvanced_Exercises/Abstraction/P03_Diagonal_Difference.java" />
         <option value="$PROJECT_DIR$/src/JavaAdvanced_Exercises/Abstraction/P04_2x2_Squares_in_Matrix.java" />
+        <option value="$PROJECT_DIR$/src/JavaAdvanced_Exercises/Abstraction/P05_Maximal_Sum.java" />
       </list>
     </option>
   </component>
@@ -170,7 +182,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.P03_Diagonal_Difference">
+  <component name="RunManager" selected="Application.P04_2x2_Squares_in_Matrix">
     <configuration name="P01_Fill_the_Matrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -179,25 +191,6 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="JavaAdvanced_Exercises.Abstraction.P01_Fill_the_Matrix" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="JavaAdvanced" />
-      <envs />
-    </configuration>
-    <configuration name="P01_Take_Two" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="JavaAdvanced_Lab.Introducing_Stream_API.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="JavaAdvanced_Lab.Introducing_Stream_API.P01_Take_Two" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -255,6 +248,25 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="JavaAdvanced_Lab.Introducing_Stream_API.P03_First_Name" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="JavaAdvanced" />
+      <envs />
+    </configuration>
+    <configuration name="P04_2x2_Squares_in_Matrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="JavaAdvanced_Exercises.Abstraction.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="JavaAdvanced_Exercises.Abstraction.P04_2x2_Squares_in_Matrix" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -348,19 +360,19 @@
       <listeners />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.P01_Take_Two" />
-      <item index="1" class="java.lang.String" itemvalue="Application.P02_Upper_Strings" />
-      <item index="2" class="java.lang.String" itemvalue="Application.P03_First_Name" />
-      <item index="3" class="java.lang.String" itemvalue="Application.P01_Fill_the_Matrix" />
-      <item index="4" class="java.lang.String" itemvalue="Application.P03_Diagonal_Difference" />
+      <item index="0" class="java.lang.String" itemvalue="Application.P02_Upper_Strings" />
+      <item index="1" class="java.lang.String" itemvalue="Application.P03_First_Name" />
+      <item index="2" class="java.lang.String" itemvalue="Application.P01_Fill_the_Matrix" />
+      <item index="3" class="java.lang.String" itemvalue="Application.P03_Diagonal_Difference" />
+      <item index="4" class="java.lang.String" itemvalue="Application.P04_2x2_Squares_in_Matrix" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.P03_Diagonal_Difference" />
-        <item index="1" class="java.lang.String" itemvalue="Application.P01_Fill_the_Matrix" />
-        <item index="2" class="java.lang.String" itemvalue="Application.P03_First_Name" />
-        <item index="3" class="java.lang.String" itemvalue="Application.P02_Upper_Strings" />
-        <item index="4" class="java.lang.String" itemvalue="Application.P01_Take_Two" />
+        <item index="0" class="java.lang.String" itemvalue="Application.P04_2x2_Squares_in_Matrix" />
+        <item index="1" class="java.lang.String" itemvalue="Application.P03_Diagonal_Difference" />
+        <item index="2" class="java.lang.String" itemvalue="Application.P01_Fill_the_Matrix" />
+        <item index="3" class="java.lang.String" itemvalue="Application.P03_First_Name" />
+        <item index="4" class="java.lang.String" itemvalue="Application.P02_Upper_Strings" />
       </list>
     </recent_temporary>
   </component>
@@ -383,12 +395,12 @@
       <workItem from="1507285441600" duration="13014000" />
       <workItem from="1507537492890" duration="8915000" />
       <workItem from="1507559737842" duration="1406000" />
-      <workItem from="1507620123522" duration="2337000" />
+      <workItem from="1507620123522" duration="4414000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="42523000" />
+    <option name="totallyTimeSpent" value="44600000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -402,7 +414,7 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.328" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.328" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -413,7 +425,7 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.40133333" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.40133333" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -815,19 +827,27 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/JavaAdvanced_Exercises/Abstraction/P03_Diagonal_Difference.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="20" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+        <state relative-caret-position="144">
+          <caret line="23" column="21" lean-forward="true" selection-start-line="22" selection-start-column="7" selection-end-line="23" selection-end-column="21" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/JavaAdvanced_Exercises/Abstraction/P04_2x2_Squares_in_Matrix.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="28" column="66" lean-forward="true" selection-start-line="28" selection-start-column="66" selection-end-line="28" selection-end-column="66" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaAdvanced_Exercises/Abstraction/P05_Maximal_Sum.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" column="49" lean-forward="false" selection-start-line="6" selection-start-column="49" selection-end-line="6" selection-end-column="49" />
           <folding>
-            <element signature="e#156#157#0" expanded="true" />
-            <element signature="e#212#213#0" expanded="true" />
+            <element signature="e#146#147#0" expanded="true" />
+            <element signature="e#202#203#0" expanded="true" />
           </folding>
         </state>
       </provider>
