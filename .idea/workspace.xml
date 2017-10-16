@@ -15,7 +15,7 @@
       <file leaf-file-name="P07_Letters_Change_Numbers.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/JavaAdvanced_Exercises/String_Proccesing/P07_Letters_Change_Numbers.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
+            <state relative-caret-position="399">
               <caret line="21" column="10" lean-forward="false" selection-start-line="21" selection-start-column="10" selection-end-line="21" selection-end-column="10" />
               <folding />
             </state>
@@ -25,18 +25,30 @@
       <file leaf-file-name="P08_Melrah_Shake.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/JavaAdvanced_Exercises/String_Proccesing/P08_Melrah_Shake.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="393">
-              <caret line="25" column="5" lean-forward="true" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+            <state relative-caret-position="475">
+              <caret line="25" column="5" lean-forward="false" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="P09_Match_Full_Name.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="P09_Match_Full_Name.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/JavaAdvanced_Exercises/String_Proccesing/P09_Match_Full_Name.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="2" column="32" lean-forward="false" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
+            <state relative-caret-position="361">
+              <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="P10_Match_Phone_Number.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/JavaAdvanced_Exercises/String_Proccesing/P10_Match_Phone_Number.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="7" column="8" lean-forward="false" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
               <folding />
             </state>
           </provider>
@@ -83,6 +95,8 @@
         <option value="$PROJECT_DIR$/src/JavaAdvanced_Exercises/String_Proccesing/P06_Magic_Exchangeable_Words.java" />
         <option value="$PROJECT_DIR$/src/JavaAdvanced_Exercises/String_Proccesing/P07_Letters_Change_Numbers.java" />
         <option value="$PROJECT_DIR$/src/JavaAdvanced_Exercises/String_Proccesing/P08_Melrah_Shake.java" />
+        <option value="$PROJECT_DIR$/src/JavaAdvanced_Exercises/String_Proccesing/P09_Match_Full_Name.java" />
+        <option value="$PROJECT_DIR$/src/JavaAdvanced_Exercises/String_Proccesing/P10_Match_Phone_Number.java" />
       </list>
     </option>
   </component>
@@ -114,6 +128,8 @@
     <panes>
       <pane id="AndroidView" />
       <pane id="PackagesPane" />
+      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -149,8 +165,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -173,26 +187,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.P08_Melrah_Shake">
-    <configuration name="P04_Unicode_Characters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="JavaAdvanced_Exercises.String_Proccesing.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="JavaAdvanced_Exercises.String_Proccesing.P04_Unicode_Characters" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="JavaAdvanced" />
-      <envs />
-    </configuration>
+  <component name="RunManager" selected="Application.P09_Match_Full_Name">
     <configuration name="P05_Palindromes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -258,6 +253,25 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="JavaAdvanced_Exercises.String_Proccesing.P08_Melrah_Shake" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="JavaAdvanced" />
+      <envs />
+    </configuration>
+    <configuration name="P09_Match_Full_Name" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="JavaAdvanced_Exercises.String_Proccesing.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="JavaAdvanced_Exercises.String_Proccesing.P09_Match_Full_Name" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -351,19 +365,19 @@
       <listeners />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.P04_Unicode_Characters" />
-      <item index="1" class="java.lang.String" itemvalue="Application.P05_Palindromes" />
-      <item index="2" class="java.lang.String" itemvalue="Application.P06_Magic_Exchangeable_Words" />
-      <item index="3" class="java.lang.String" itemvalue="Application.P07_Letters_Change_Numbers" />
-      <item index="4" class="java.lang.String" itemvalue="Application.P08_Melrah_Shake" />
+      <item index="0" class="java.lang.String" itemvalue="Application.P05_Palindromes" />
+      <item index="1" class="java.lang.String" itemvalue="Application.P06_Magic_Exchangeable_Words" />
+      <item index="2" class="java.lang.String" itemvalue="Application.P07_Letters_Change_Numbers" />
+      <item index="3" class="java.lang.String" itemvalue="Application.P08_Melrah_Shake" />
+      <item index="4" class="java.lang.String" itemvalue="Application.P09_Match_Full_Name" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.P08_Melrah_Shake" />
-        <item index="1" class="java.lang.String" itemvalue="Application.P07_Letters_Change_Numbers" />
-        <item index="2" class="java.lang.String" itemvalue="Application.P06_Magic_Exchangeable_Words" />
-        <item index="3" class="java.lang.String" itemvalue="Application.P05_Palindromes" />
-        <item index="4" class="java.lang.String" itemvalue="Application.P04_Unicode_Characters" />
+        <item index="0" class="java.lang.String" itemvalue="Application.P09_Match_Full_Name" />
+        <item index="1" class="java.lang.String" itemvalue="Application.P08_Melrah_Shake" />
+        <item index="2" class="java.lang.String" itemvalue="Application.P07_Letters_Change_Numbers" />
+        <item index="3" class="java.lang.String" itemvalue="Application.P06_Magic_Exchangeable_Words" />
+        <item index="4" class="java.lang.String" itemvalue="Application.P05_Palindromes" />
       </list>
     </recent_temporary>
   </component>
@@ -385,12 +399,13 @@
       <workItem from="1507883418888" duration="12934000" />
       <workItem from="1507908460870" duration="6512000" />
       <workItem from="1507923633122" duration="5799000" />
-      <workItem from="1508138946889" duration="6768000" />
+      <workItem from="1508138946889" duration="8044000" />
+      <workItem from="1508151585325" duration="210000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32276000" />
+    <option name="totallyTimeSpent" value="33762000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1292" height="702" extended-state="6" />
@@ -398,7 +413,6 @@
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32885906" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -421,6 +435,7 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32885906" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -452,6 +467,32 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/JavaAdvanced_Exercises/String_Proccesing/P07_Letters_Change_Numbers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="21" column="10" lean-forward="false" selection-start-line="21" selection-start-column="10" selection-end-line="21" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaAdvanced_Exercises/String_Proccesing/P08_Melrah_Shake.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="25" column="5" lean-forward="true" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaAdvanced_Exercises/String_Proccesing/P09_Match_Full_Name.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/JavaAdvanced_Exercises/String_Proccesing/P07_Letters_Change_Numbers.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -652,7 +693,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/JavaAdvanced_Exercises/String_Proccesing/P07_Letters_Change_Numbers.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
+        <state relative-caret-position="399">
           <caret line="21" column="10" lean-forward="false" selection-start-line="21" selection-start-column="10" selection-end-line="21" selection-end-column="10" />
           <folding />
         </state>
@@ -660,16 +701,26 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/JavaAdvanced_Exercises/String_Proccesing/P08_Melrah_Shake.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="393">
-          <caret line="25" column="5" lean-forward="true" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+        <state relative-caret-position="475">
+          <caret line="25" column="5" lean-forward="false" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/JavaAdvanced_Exercises/String_Proccesing/P09_Match_Full_Name.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="32" lean-forward="false" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
+        <state relative-caret-position="361">
+          <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaAdvanced_Exercises/String_Proccesing/P10_Match_Phone_Number.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="8" lean-forward="false" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
           <folding />
         </state>
       </provider>
