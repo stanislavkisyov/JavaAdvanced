@@ -1,5 +1,6 @@
 package JavaAdvanced_Lab.Data_Representation_and_Manipulation;
 
+import java.util.Arrays;
 import java.util.Scanner;
 
 public class P02_1_Serching {
@@ -10,6 +11,7 @@ public class P02_1_Serching {
         int key = Integer.parseInt(scanner.nextLine());
 
         int[] sortArrays = new int[input.length];
+
 
         for (int i = 0; i < input.length; i++) {
             sortArrays[i] = Integer.parseInt(input[i]);
