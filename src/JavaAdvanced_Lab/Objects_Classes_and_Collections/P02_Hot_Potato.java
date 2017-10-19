@@ -8,19 +8,22 @@ import java.util.Scanner;
 public class P02_Hot_Potato {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-
         String[] input = scanner.nextLine().split("\\s+");
-        int number = Integer.parseInt(scanner.nextLine());
+        int num = Integer.parseInt(scanner.nextLine());
 
         Deque<String> queue = new ArrayDeque<>();
-        Collections.addAll(queue, input);
+        for (int i = 0; i < input.length; i++) {
+            queue.offer(input[i]);
+        }
 
         while (queue.size() > 1) {
-            for (int i = 1; i < number; i++){
-                queue.offer(queue.pop());
+
+            for (int i = 1; i < num; i++) {
+                queue.offer(queue.poll());
             }
-            System.out.println("Removed "+queue.poll());
+            System.out.println("Removed " + queue.poll());
         }
-        System.out.println("Last is "+queue.poll());
+
+        System.out.println("Last is " + queue.peek());
     }
 }

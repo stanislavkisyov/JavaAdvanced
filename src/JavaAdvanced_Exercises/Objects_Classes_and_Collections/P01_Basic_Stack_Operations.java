@@ -1,32 +1,32 @@
 package JavaAdvanced_Exercises.Objects_Classes_and_Collections;
 
 import java.util.ArrayDeque;
+import java.util.Deque;
 import java.util.Scanner;
 
 public class P01_Basic_Stack_Operations {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
+        String[] line = scanner.nextLine().split("\\s+");
 
-        String[] commands = scanner.nextLine().split("\\s+");
-
-        int numberOfDigits = Integer.parseInt(commands[0]);
-        int elementsToPop = Integer.parseInt(commands[1]);
-        int elementsContainsInPop = Integer.parseInt(commands[2]);
+        int numberOfElements = Integer.parseInt(line[0]);
+        int numberToPops = Integer.parseInt(line[1]);
+        int numberContainsInStack = Integer.parseInt(line[2]);
         int minElement = Integer.MAX_VALUE;
-        String[] numbers = scanner.nextLine().split("\\s+");
 
-        ArrayDeque<Integer> stack = new ArrayDeque<>();
+        String[] input = scanner.nextLine().split("\\s+");
+        Deque<Integer> stack = new ArrayDeque<>();
 
-        for (int i = 0; i < numberOfDigits; i++) {
-            stack.push(Integer.parseInt(numbers[i]));
+        for (int i = 0; i < numberOfElements; i++) {
+            stack.push(Integer.parseInt(input[i]));
         }
-
-        for (int i = 0; i < elementsToPop; i++) {
+        for (int i = 0; i < numberToPops; i++) {
             stack.pop();
         }
-        if (stack.contains(elementsContainsInPop)) {
+
+        if (stack.contains(numberContainsInStack)) {
             System.out.println(true);
-        } else if (stack.size() == 0) {
+        } else if (stack.isEmpty()) {
             System.out.println("0");
         } else {
             for (Integer integer : stack) {
@@ -36,6 +36,5 @@ public class P01_Basic_Stack_Operations {
             }
             System.out.println(minElement);
         }
-
     }
 }

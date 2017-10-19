@@ -1,5 +1,6 @@
 package JavaAdvanced_Lab.Objects_Classes_and_Collections;
 
+import java.util.Map;
 import java.util.Scanner;
 import java.util.TreeMap;
 
@@ -9,21 +10,20 @@ public class P06_Academy_Graduation {
 
         int numberOfStudents = Integer.parseInt(scanner.nextLine());
 
-
-        TreeMap<String, Double> graduationList = new TreeMap<>();
+        Map<String, Double> studentsGraduation = new TreeMap<>();
         for (int i = 0; i < numberOfStudents; i++) {
             String name = scanner.nextLine();
             String[] scores = scanner.nextLine().split("\\s+");
-            double sum = 0;
+            double result = 0;
             for (int j = 0; j < scores.length; j++) {
-                sum += Double.parseDouble(scores[j]);
+                result += Double.parseDouble(scores[j]);
             }
-            double average = sum / scores.length;
-            graduationList.put(name, average);
+            double average = result / scores.length;
+            studentsGraduation.put(name, average);
         }
 
-        for (String key : graduationList.keySet()) {
-            System.out.println(key + " is graduated with " + graduationList.get(key));
+        for (String s : studentsGraduation.keySet()) {
+            System.out.println(s + " is graduated with " + studentsGraduation.get(s));
         }
     }
 }
