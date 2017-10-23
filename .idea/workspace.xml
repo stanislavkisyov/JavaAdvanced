@@ -122,6 +122,17 @@
               <item name="JavaAdvanced" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavaAdvanced" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="JavaAdvanced" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaAdvanced" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaAdvanced" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaAdvanced" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Exam_22_10_2017" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -137,6 +148,11 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/README.md" />
     <property name="SearchEverywhereHistoryKey" value="extract&#9;ACTION&#9;IntroduceActionsGroup" />
     <property name="extract.method.default.visibility" value="private" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\pc\Documents\GitHub\JavaAdvanced\src\Exam_22_10_2017" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -370,12 +386,12 @@
       <workItem from="1508398807420" duration="22886000" />
       <workItem from="1508489863468" duration="10256000" />
       <workItem from="1508676191207" duration="19188000" />
-      <workItem from="1508741913270" duration="642000" />
+      <workItem from="1508741913270" duration="783000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="113499000" />
+    <option name="totallyTimeSpent" value="113640000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1292" height="702" extended-state="6" />
